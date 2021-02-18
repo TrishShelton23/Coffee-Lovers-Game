@@ -1,0 +1,9 @@
+.nav{border-color: black; border: 1px solid; padding:0; margin:0;
+ }
+#header{
+    @include centerDisplay;
+}
+#header > img{
+    place-content: center;
+}
+
