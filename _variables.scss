@@ -1,0 +1,13 @@
+//Background Images
+$pageBackground: linear-gradient(to right top ,#ffbfb8, rgb(255, 119, 65));
+$gameBackground: linear-gradient(
+    to right bottom, 
+    rgba(255, 255, 255, .7),
+    rgba(180, 180, 180, 0.10));
+
+    //Layout
+    @mixin centerDisplay{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    }
