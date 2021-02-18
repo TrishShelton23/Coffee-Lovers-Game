@@ -1,0 +1,27 @@
+.nav {
+  border-color: black;
+  border: 1px solid;
+  padding: 0;
+  margin: 0;
+}
+
+#header {
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+}
+
+#header > img {
+  place-content: center;
+}
+
+html {
+  min-height: 100%;
+  max-width: auto;
+  background-image: -webkit-gradient(linear, left bottom, right top, from(#ffbfb8), to(#ff7741));
+  background-image: linear-gradient(to right top, #ffbfb8, #ff7741);
+}
+/*# sourceMappingURL=style.css.map */
