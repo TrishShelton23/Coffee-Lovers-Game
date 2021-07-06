@@ -2,7 +2,7 @@
 
 ## Wireframes<br>
 Mobile
-<img src="/Users/trisheiashelton/Documents/git/Coffee-Lovers-Survey/images/Coffee-Lovers-Survey-Form.png" alt="wire-frame">
+<img src="images/mobile-frame-view.png" alt="mobile-wireframe">
 <br>
 Desktop
-<img src="" alt="">
+<img src="images/desktop-wireframe-view.png" alt="desktop-wireframe">
